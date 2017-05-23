@@ -1,0 +1,203 @@
+﻿
+body {
+    background-color: #336699;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 975px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    border-bottom: 10px solid;
+    border-color: #6A6B6F;
+    background-color: #D6DFFF;
+}
+
+#wrapper {
+    overflow: hidden;
+    background-color: #D6DFFF;
+    border-bottom: 10px solid;
+    border-color: #6A6B6F;
+}
+
+#mainnav {
+    float: left;
+    padding: 15px;
+    padding-left: 20px;
+    width: 20%;
+    position: relative;
+    border-right: solid 10px;
+    border-color: #6A6B6F;
+    font-weight: 500;
+    
+    /* Change this height if the mainnav is too short for your content 
+       (i.e. tool) in ContentPlaceHolder1. It WILL affect the height
+       of every page in the site. Please keep this value aesthetically 
+       reasonable. ~Arie*/
+    height: 525px;
+}
+
+#welcome {
+    text-align:center;
+    font-size: 18px;
+    padding: 20px;
+}
+
+#register {
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    padding-top: 90px;
+    padding-left: 245px;  
+    width: 500px;  
+}
+
+.acctCreate {
+    display: block;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.login {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#binaryconverter {
+    text-align: center;
+    font-size: 26px;
+    padding: 15px;
+}
+    
+#bi_convert_instructions {
+    font-size: 22px;
+    padding: 20px;
+}
+
+.DBconverter {
+    font-size: 24px;
+    text-align: center;
+    border-style: solid; 
+    border-width: 1px;
+}
+#feedback {
+    font-size: 20px;
+    padding: 35px;
+    padding-left:275px;
+}
+
+/* Brandon's CSS*/
+#calc_div{  
+   	margin:auto;
+    margin-top: 8px;
+    text-align:center;
+ 
+}
+#calc_body{
+    margin-left:475px;
+    margin-right:auto;
+    margin-top:45px;
+    padding:0px;
+    width:200px;
+    height:275px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #E6E6FF;
+    border-radius: 14px 14px 14px 14px;
+}
+#sw_div{
+    
+}
+#sw_body{
+    margin-left: 450px;
+    margin-top: 125px;
+    text-align: center;
+    padding:5px;
+    width:280px;
+    height:75px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #E6E6FF;
+    border-radius: 14px 14px 14px 14px;
+}
+.calc_button{
+    width: 40px;
+    height: 40px;
+    font-size: 170%;
+    margin: 2px;
+}
+.sw_button{
+    width: 70px;
+    font-size: 120%;
+    margin: 2px;
+    font-family: 'Arial Rounded MT';
+}
+/* End Brandon's CSS*/
+
+/* Eric's CSS */
+#Memorytable{
+    text-align: center;
+    font-size: 26px;
+    padding: 50px;
+    margin-left: 375px;
+}
+#from,#To{
+    font-size: 20px;
+}
+#instructions{
+    font-size: 30px;
+    font-style: italic;
+}
+/* End Eric's CSS*/
+
+/* Shiva's CSS*/
+#money {
+    padding-left: 425px;
+    font-size: 18px;
+}
+
+#money label{
+     float:left;
+     width: 10em;
+ }
+
+.entry{
+     margin-left: 1em;
+     margin-bottom:.5em;
+     width:10em;
+     font-size: 16px;
+ }
+
+
+ .validator{
+     font-size: 95%;
+     color:red;
+     margin-left:1em;
+ }
+ 
+ .button{
+     margin-top:1em;
+     width: 10em;
+
+ }
+ #ddlmonthlyInvestment{
+     width:10.5em;
+
+ }
+ #lblFutureValue{
+     font-weight: bold;
+     margin-left:1em;
+ }
+ #btnClear{
+     margin-left:1em;
+ }
+/* End Shiva's CSS*/

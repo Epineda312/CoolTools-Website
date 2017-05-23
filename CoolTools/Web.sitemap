@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+    <!-- Leave the container node's url, title, and description blank, since 
+         SiteMapDataSource ShowStartingNode="false" ~Arie-->
+    <siteMapNode url="" title=""  description=""> 
+        <siteMapNode url="home.aspx" title="Home/Login"  description="Cool Tools Home Page" />
+        <siteMapNode url="calculator.aspx" title="Calculator"  description="Calculator" />
+        <siteMapNode url="binary.aspx" title="Decimal/Binary"  description="Decimal/Binary Converter" />
+        <siteMapNode url="temperature.aspx" title="Fahrenheit/Celsius"  description="Temperature Converter" />
+        <siteMapNode url="money.aspx" title="Investments"  description="Investment Calculator" />
+        <siteMapNode url="memory.aspx" title="Memory Converter"  description="Computer Memory Converter" />
+        <siteMapNode url="stopwatch.aspx" title="Stop Watch"  description="Stopwatch" />
+        <siteMapNode url="~/AccountPages/myAccount.aspx" title="My Account" description="Manage User Account" />
+        <siteMapNode url="~/AccountPages/feedback.aspx" title="Feedback Form" description="Give us feedback!" />
+    </siteMapNode>
+</siteMap>

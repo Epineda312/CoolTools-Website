@@ -1,0 +1,26 @@
+﻿
+<%-- Main Navigation styling on master page. Other styles for the main navigation, for example: 
+     font-family, font-weight, etc... is located in App_Themes/CTdefault/CTmasterStyles.css 
+     under #mainnav. ~Arie --%>
+<asp:Menu runat="server" 
+                         StaticSelectedStyle-BackColor="#336699"
+                         StaticSelectedStyle-ForeColor="White"
+                         Font-Size="22px"
+                         ForeColor="#336699"
+                         StaticSelectedStyle-HorizontalPadding="5px" />
+
+<%-- Feedback form and Home/Login TextBoxes. ~Arie --%>
+<asp:TextBox runat="server" 
+                         SkinID="defaultTextBox" 
+                         Font-Size="16px" />
+
+<%-- CreateUserWizard in CTRegister.aspx ~Arie --%>
+<asp:CreateUserWizard runat="server"
+                         SkinID="createUseWiz"
+                         Font-Size="18px"
+                         Height="235px"
+                         Width="365px"/>
+
+<%-- NOTE: If adding to this skin please leave comments explaining which control, which page 
+     and your name. It'll make it easier for us to find specific controls in the future ~Arie --%>
+
