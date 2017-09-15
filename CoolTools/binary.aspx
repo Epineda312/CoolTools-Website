@@ -3,7 +3,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 
-    <meta name="author" content="Arie Knoester" />
+    <meta name="author" content="aK" />
     <meta name="keywords" content="binary, decimal, converter, calculator, convert, cool tools" />
     <meta name="description" content="Converts decimal numbers to binary and binary to decimal" />
         
