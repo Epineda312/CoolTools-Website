@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Temperature Converter" Language="C#" MasterPageFile="~/CTMaster.master" AutoEventWireup="true" CodeFile="temperature.aspx.cs" Inherits="temperature" theme="CTdefault"%>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Eric Peneda" />
+    <meta name="author" content="Eric Pineda" />
     <meta name="keywords" content="cool tools, free, temperature, converter, online" />
     <meta name="description" content="Cool Tools temperature converter" />
 </asp:Content>
