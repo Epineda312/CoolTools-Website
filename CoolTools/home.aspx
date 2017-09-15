@@ -3,7 +3,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 
-        <meta name="author" content="Arie Knoester" />
+        <meta name="author" content="ak" />
         <meta name="keywords" content="cool tools, home, free, converter, convert, calculator, watch, login" />
         <meta name="description" content="Home page for Cool Tools. A collection of free online applications" />
 
