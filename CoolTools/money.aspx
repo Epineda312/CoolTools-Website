@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Investment Calculator" Language="C#" MasterPageFile="~/CTMaster.master" AutoEventWireup="true" CodeFile="money.aspx.cs" Inherits="money" Theme="CTdefault" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Shiva Upadhyay" />
+    <meta name="author" content="sU" />
     <meta name="keywords" content="cool tools, money, investment, interest, online, calculator" />
     <meta name="description" content="Cool Tools investment calculator" />
 </asp:Content>
