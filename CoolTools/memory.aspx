@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Memory Converter" Language="C#" MasterPageFile="~/CTMaster.master" AutoEventWireup="true" CodeFile="memory.aspx.cs" Inherits="memory" Theme="CTdefault" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Eric Peneda" />
+    <meta name="author" content="Eric Pineda" />
     <meta name="keywords" content="cool tools, free, computer, memory, converter, online" />
     <meta name="description" content="Cool Tools memory converter" />
 </asp:Content>
