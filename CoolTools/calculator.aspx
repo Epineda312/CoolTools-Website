@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Calculator" Language="C#" MasterPageFile="~/CTMaster.master" AutoEventWireup="true" CodeFile="calculator.aspx.cs" Inherits="calculator" Theme="CTdefault" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Brandon DeBord" />
+    <meta name="author" content="bD" />
     <meta name="keywords" content="cool tools, free, calculator, online" />
     <meta name="description" content="Cool Tools calculator" />
 </asp:Content>
