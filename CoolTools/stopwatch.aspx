@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Stop Watch" Language="C#" MasterPageFile="~/CTMaster.master" AutoEventWireup="true" CodeFile="stopwatch.aspx.cs" Inherits="stopwatch" Theme="CTdefault" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Brandon DeBord" />
+    <meta name="author" content="bD" />
     <meta name="keywords" content="cool tools, free, stop watch, online" />
     <meta name="description" content="Cool Tools stop watch" />
 </asp:Content>
