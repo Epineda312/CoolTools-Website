@@ -2,7 +2,7 @@
     Theme="CTdefault" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <meta name="author" content="Arie Knoester" />
+    <meta name="author" content="AK" />
     <meta name="keywords" content="cool tools, register, account, create, user" />
     <meta name="description" content="Cool Tools create user account page" />
 </asp:Content>
